@@ -15,7 +15,7 @@ function Projects() {
     {
       title: "Project 3",
       description: "A portfolio website",
-      link: "",
+      link: "https://portfolio-omega-coral-67.vercel.app/",
     },
   ];
 
